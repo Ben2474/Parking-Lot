@@ -2,7 +2,6 @@ package javaapplication43;
 
 import java.util.Scanner;
 
-public class JavaApplication43 {
 
 /**
  * This is the main class where most of the magic happens. There are 10 instances of cars with 2 of them being one with handicap badges. It adds them to the LinkedList. After it asks the user
@@ -88,7 +87,6 @@ public class CarGarage {
             }
         }
     } 
-}
 }
 
 
